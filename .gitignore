@@ -3,7 +3,7 @@
 
 ### Custom ###
 .ruff_cache
-static
+static/admin/
 .idea
 
 ### Django ###

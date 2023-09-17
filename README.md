@@ -43,3 +43,8 @@ All actions should be executed from the source directory of the project and only
    ```bash
    celery -A Store worker --loglevel=INFO
    ```
+
+6. Run Django server:
+   ```bash
+   poetry run python ./manage.py runserver
+   ```
